@@ -1,0 +1,11 @@
+body{
+    background-color:hsl(from rgb(58, 58, 58) h s l);
+    color: rgb(255, 255, 255);
+    font-family: "Courier New", "Brush Script MT", Verdana;
+    font-size: 50px;
+}
+
+a{
+    color: #ffffff
+}
+
